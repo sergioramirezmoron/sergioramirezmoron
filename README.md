@@ -7,12 +7,9 @@ Soy un desarrollador web apasionado por crear soluciones eficientes y escalables
 
 ## 📷 Sobre mí
 
-![Foto personal](images/personal.png)
-
-- 💻 **Desarrollador Web Full Stack**
+- 💻 **Desarrollador en aprendizaje**
 - 🌱 En constante aprendizaje de nuevas herramientas y lenguajes
-- 🤝 Colaborador en proyectos de código abierto
-- 🚀 Enfocado en crear experiencias digitales funcionales y atractivas
+- 🚀 Enfocado en crear Aplicaciones Web funcionales y atractivas
 
 ---
 
@@ -28,7 +25,6 @@ En mi portafolio encontrarás proyectos y trabajos que reflejan mis habilidades 
 ### ⏳ Temporizador
 
 ![Temporizador](images/temporizador.png)  
-[Ver repositorio](https://github.com/sergioramirezmoron/Temporizador)  
 Aplicación web que permite utilizar un temporizador de manera sencilla y visual.
 
 ---
