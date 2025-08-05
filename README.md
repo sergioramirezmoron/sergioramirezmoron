@@ -17,6 +17,7 @@ Soy un desarrollador web apasionado por crear soluciones eficientes y escalables
 
 ![Portfolio](images/portfolio.png)  
 En mi portafolio encontrarás proyectos y trabajos que reflejan mis habilidades en desarrollo web, diseño de interfaces y optimización de aplicaciones.
+https://portfoliosergioramirezmoron.netlify.app
 
 ---
 
@@ -29,7 +30,7 @@ Aplicación web que permite utilizar un temporizador de manera sencilla y visual
 
 ---
 
-### 📌 Tienda Online - No Funcional
+### 📌 Tienda Online - Diseño
 
 ![Proyecto 2](images/tienda.png)  
 Tienda Online sobre una tienda ficticia vendedora de camisetas de diversas tecnologías.
