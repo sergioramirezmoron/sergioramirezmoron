@@ -8,9 +8,9 @@ En constante aprendizaje y con entusiasmo para conseguir mis objetivos.
 
 ## 📷 Sobre mí
 
- 💻 **Desarrollador en aprendizaje**
- 🌱 En constante aprendizaje de nuevas herramientas y lenguajes
- 🚀 Enfocado en crear Aplicaciones Web funcionales y atractivas
+- 💻 **Desarrollador en aprendizaje**
+- 🌱 En constante aprendizaje de nuevas herramientas y lenguajes
+- 🚀 Enfocado en crear Aplicaciones Web funcionales y atractivas
 
 ---
 
@@ -18,7 +18,7 @@ En constante aprendizaje y con entusiasmo para conseguir mis objetivos.
 
 ![Portfolio](images/portfolio.png)  
 En mi portafolio encontrarás proyectos y trabajos que reflejan mis habilidades en desarrollo web, diseño de interfaces y optimización de aplicaciones.
-https://portfoliosergioramirezmoron.netlify.app
+- https://portfoliosergioramirezmoron.netlify.app
 
 ---
 
