@@ -1,7 +1,8 @@
 # 👋 ¡Hola! Soy Sergio Ramírez
 
-Bienvenido a mi perfil de GitHub.  
-Soy un desarrollador web apasionado por crear soluciones eficientes y escalables, con un fuerte interés en el código abierto y en aprender constantemente nuevas tecnologías.
+Soy un jóven que le encanta la tecnología. 
+Apasionado por el desarrollo web y la inteligencia artificial.
+En constante aprendizaje y con entusiasmo para conseguir mis objetivos.
 
 ---
 
