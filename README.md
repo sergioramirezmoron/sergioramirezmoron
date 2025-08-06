@@ -18,7 +18,7 @@ En constante aprendizaje y con entusiasmo para conseguir mis objetivos.
 
 ![Portfolio](images/portfolio.png)  
 En mi portafolio encontrarás proyectos y trabajos que reflejan mis habilidades en desarrollo web, diseño de interfaces y optimización de aplicaciones.
-- https://portfoliosergioramirezmoron.netlify.app
+- https://portfoliosergioramirez.netlify.app
 
 ---
 
