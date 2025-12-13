@@ -1,16 +1,16 @@
 # 👋 ¡Hola! Soy Sergio Ramírez
 
-Soy un jóven que le encanta la tecnología. 
-Apasionado por el desarrollo web y la inteligencia artificial.
-En constante aprendizaje y con entusiasmo para conseguir mis objetivos.
+Soy un entusiasta de la tecnología con un fuerte interés en el desarrollo web y la inteligencia artificial. Me caracterizo por una mentalidad orientada al aprendizaje continuo, la mejora constante y la creación de soluciones digitales eficientes y bien diseñadas.
 
 ---
 
 ## 📷 Sobre mí
 
-- 💻 **Desarrollador FullStack**
-- 🌱 En constante aprendizaje de nuevas herramientas y lenguajes
-- 🚀 Enfocado en crear Aplicaciones Web funcionales y atractivas
+- Desarrollador Full Stack
+
+- En constante formación en nuevas tecnologías, frameworks y buenas prácticas
+
+- Enfocado en el desarrollo de aplicaciones web funcionales, escalables y visualmente atractivas
 
 ---
 
