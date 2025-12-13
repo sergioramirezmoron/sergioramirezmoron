@@ -8,7 +8,7 @@ En constante aprendizaje y con entusiasmo para conseguir mis objetivos.
 
 ## 📷 Sobre mí
 
-- 💻 **Desarrollador en aprendizaje**
+- 💻 **Desarrollador FullStack**
 - 🌱 En constante aprendizaje de nuevas herramientas y lenguajes
 - 🚀 Enfocado en crear Aplicaciones Web funcionales y atractivas
 
