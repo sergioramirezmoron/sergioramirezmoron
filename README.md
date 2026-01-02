@@ -14,30 +14,6 @@ Soy un entusiasta de la tecnología con un fuerte interés en el desarrollo web 
 
 ---
 
-## 📂 Mi Portafolio
-
-![Portfolio](images/portfolio.png)  
-En mi portafolio encontrarás proyectos y trabajos que reflejan mis habilidades en desarrollo web, diseño de interfaces y optimización de aplicaciones.
-- https://portfoliosergioramirez.netlify.app
-
----
-
-## 🌟 Proyectos Destacados
-
-### ⏳ Temporizador
-
-![Temporizador](images/temporizador.png)  
-Aplicación web que permite utilizar un temporizador de manera sencilla y visual.
-
----
-
-### 📌 Tienda Online - Diseño
-
-![Proyecto 2](images/tienda.png)  
-Tienda Online sobre una tienda ficticia vendedora de camisetas de diversas tecnologías.
-
----
-
 ## 📫 Contacto
 
 - ✉️ **Email:** sergioramirezmoron@gmail.com
