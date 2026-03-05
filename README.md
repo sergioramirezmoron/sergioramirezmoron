@@ -5,15 +5,11 @@
 
 <br/>
 
-<!-- Subtitle -->
-<p>
-  <em>Estudiante de desarrollo de aplicaciones web.</em><br/>
-</p>
+<p><em>Estudiante de desarrollo de aplicaciones web.</em></p>
 
 <br/>
 
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio%20Ramírez%20Morón-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sergio-ramirez-moron](https://www.linkedin.com/in/sergio-ramírez-morón-550648357/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio%20Ramírez%20Morón-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-ram%C3%ADrez-mor%C3%B3n-550648357/)
 [![GitHub followers](https://img.shields.io/github/followers/SergioRamirezMoron?style=for-the-badge&logo=github&logoColor=white&color=171515)](https://github.com/SergioRamirezMoron)
 [![Location](https://img.shields.io/badge/📍-Granada%2C%20España-E63946?style=for-the-badge)](https://en.wikipedia.org/wiki/Granada)
 
@@ -76,7 +72,7 @@ sergio = {
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <h3> Proyecto Fin de Grado — En construcción</h3>
+      <h3>Proyecto Fin de Grado — En construcción</h3>
       <img src="https://img.shields.io/badge/status-En%20desarrollo-f97316?style=flat-square"/>
       <img src="https://img.shields.io/badge/código-privado-red?style=flat-square"/>
     </td>
@@ -85,31 +81,37 @@ sergio = {
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SergioRamirezMoron&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioRamirezMoron&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioRamirezMoron&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SergioRamirezMoron&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SergioRamirezMoron&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
 
-##  Actualmente...
+## Actualmente...
 
--  Profundizando en **Angular** y **Spring Boot**
--  Construyendo mi **proyecto de fin de grado**
--  Explorando el mundo de **Data & IA**
--  Aprendiendo más sobre **AWS**
+- Profundizando en **Angular** y **Spring Boot**
+- Construyendo mi **proyecto de fin de grado**
+- Explorando el mundo de **Data & IA**
+- Aprendiendo más sobre **AWS**
 
 ---
 
 <div align="center">
 
-### "El mejor código que he escrito es el que aún no existe — pero ya sé cómo hacerlo."
-
-<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=SergioRamirezMoron&color=F97316&style=flat-square&label=Visitas+al+perfil)
 
 </div>
