@@ -13,7 +13,7 @@
 <br/>
 
 <!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio%20Ramírez%20Morón-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-ramirez-moron)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio%20Ramírez%20Morón-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sergio-ramirez-moron](https://www.linkedin.com/in/sergio-ramírez-morón-550648357/))
 [![GitHub followers](https://img.shields.io/github/followers/SergioRamirezMoron?style=for-the-badge&logo=github&logoColor=white&color=171515)](https://github.com/SergioRamirezMoron)
 [![Location](https://img.shields.io/badge/📍-Granada%2C%20España-E63946?style=for-the-badge)](https://en.wikipedia.org/wiki/Granada)
 
@@ -65,12 +65,12 @@ sergio = {
   <tr>
     <td width="50%">
       <h3>GasoFlow</h3>
-      <p>Aplicación web para consultar el <strong>precio de la gasolina en tiempo real</strong>. Porque el bolsillo también importa.</p>
+      <p>Aplicación web para consultar el <strong>precio de la gasolina en tiempo real</strong>.</p>
       <img src="https://img.shields.io/badge/status-Terminado-22c55e?style=flat-square"/>
     </td>
     <td width="50%">
       <h3>GeoSismo</h3>
-      <p>Dashboard de <strong>terremotos en tiempo real</strong> con visualización de datos sísmicos. Sí, también rastreo cuando tiembla la tierra.</p>
+      <p>Dashboard de <strong>terremotos en tiempo real</strong> con visualización de datos sísmicos.</p>
       <img src="https://img.shields.io/badge/status-Terminado-22c55e?style=flat-square"/>
     </td>
   </tr>
@@ -89,9 +89,6 @@ sergio = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SergioRamirezMoron&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioRamirezMoron&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
 </div>
 
 <div align="center">
@@ -103,9 +100,9 @@ sergio = {
 ##  Actualmente...
 
 -  Profundizando en **Angular** y **Spring Boot**
--  Construyendo mi **proyecto de fin de grado** (spoiler: va a molar)
+-  Construyendo mi **proyecto de fin de grado**
 -  Explorando el mundo de **Data & IA**
--  Aprendiendo más sobre arquitecturas en **AWS**
+-  Aprendiendo más sobre **AWS**
 
 ---
 
