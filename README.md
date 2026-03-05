@@ -7,8 +7,7 @@
 
 <!-- Subtitle -->
 <p>
-  <em>Estudiante que convierte café ☕ y líneas de código en soluciones reales.</em><br/>
-  <em>Si tiene datos, yo tengo curiosidad. Si tiene bugs... también.</em>
+  <em>Estudiante de desarrollo de aplicaciones web.</em><br/>
 </p>
 
 <br/>
@@ -22,23 +21,21 @@
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mí
 
 ```python
 sergio = {
     "nombre":       "Sergio Ramírez Morón",
-    "ubicación":    "Granada, España 🌿",
+    "ubicación":    "Granada, España",
     "rol":          "Full Stack Developer & Data/AI Learner",
     "enfoque":      ["Frontend", "Backend", "Datos en tiempo real", "IA"],
     "aprendiendo":  ["Angular", "Spring Boot", "arquitecturas escalables"],
-    "filosofía":    "El código limpio no es opcional, es respeto por el futuro tú.",
-    "fun_fact":     "He rastreado terremotos y gasolineras antes de desayunar."
 }
 ```
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -62,25 +59,24 @@ sergio = {
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 <table>
   <tr>
     <td width="50%">
-      <h3>⛽ GasolinaTracker</h3>
+      <h3>GasoFlow</h3>
       <p>Aplicación web para consultar el <strong>precio de la gasolina en tiempo real</strong>. Porque el bolsillo también importa.</p>
       <img src="https://img.shields.io/badge/status-Terminado-22c55e?style=flat-square"/>
     </td>
     <td width="50%">
-      <h3>🌍 SeismoWatch</h3>
+      <h3>GeoSismo</h3>
       <p>Dashboard de <strong>terremotos en tiempo real</strong> con visualización de datos sísmicos. Sí, también rastreo cuando tiembla la tierra.</p>
       <img src="https://img.shields.io/badge/status-Terminado-22c55e?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <h3>🔒 Proyecto Fin de Grado — En construcción</h3>
-      <p>Un proyecto con suficiente potencial como para no compartir el código... todavía. <em>Stay tuned.</em></p>
+      <h3> Proyecto Fin de Grado — En construcción</h3>
       <img src="https://img.shields.io/badge/status-En%20desarrollo-f97316?style=flat-square"/>
       <img src="https://img.shields.io/badge/código-privado-red?style=flat-square"/>
     </td>
@@ -89,7 +85,7 @@ sergio = {
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -104,12 +100,12 @@ sergio = {
 
 ---
 
-## 🌱 Ahora mismo...
+##  Actualmente...
 
-- 🔧 Profundizando en **Angular** y **Spring Boot**
-- 🧩 Construyendo mi **proyecto de fin de grado** (spoiler: va a molar)
-- 📊 Explorando el mundo de **Data & IA**
-- ☁️ Aprendiendo más sobre arquitecturas en **AWS**
+-  Profundizando en **Angular** y **Spring Boot**
+-  Construyendo mi **proyecto de fin de grado** (spoiler: va a molar)
+-  Explorando el mundo de **Data & IA**
+-  Aprendiendo más sobre arquitecturas en **AWS**
 
 ---
 
@@ -118,7 +114,5 @@ sergio = {
 ### "El mejor código que he escrito es el que aún no existe — pero ya sé cómo hacerlo."
 
 <br/>
-
-*Hecho con 💻 desde Granada — donde la Alhambra inspira y el internet a veces falla.*
 
 </div>
