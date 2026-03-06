@@ -24,7 +24,7 @@ sergio = {
     "nombre":       "Sergio Ramírez Morón",
     "ubicación":    "Granada, España",
     "rol":          "Full Stack Developer & Data/AI Learner",
-    "enfoque":      ["Frontend", "Backend", "Datos en tiempo real", "IA"],
+    "enfoque":      ["Frontend", "Backend", "IA"],
     "aprendiendo":  ["Angular", "Spring Boot", "arquitecturas escalables"],
 }
 ```
