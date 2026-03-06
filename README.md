@@ -74,7 +74,6 @@ sergio = {
     <td colspan="2" align="center">
       <h3>Proyecto Fin de Grado — En construcción</h3>
       <img src="https://img.shields.io/badge/status-En%20desarrollo-f97316?style=flat-square"/>
-      <img src="https://img.shields.io/badge/código-privado-red?style=flat-square"/>
     </td>
   </tr>
 </table>
