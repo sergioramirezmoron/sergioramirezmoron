@@ -72,7 +72,7 @@ sergio = {
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <h3>Proyecto Fin de Grado — En construcción</h3>
+      <h3>Proyecto Fin de Grado - LuxuryCars</h3>
       <img src="https://img.shields.io/badge/status-Terminado-22c55e?style=flat-square"/>
     </td>
   </tr>
@@ -99,7 +99,6 @@ sergio = {
 ## Actualmente...
 
 - Profundizando en **Angular** y **Spring Boot**
-- Construyendo mi **proyecto de fin de grado**
 - Explorando el mundo de **Data & IA**
 - Aprendiendo más sobre **AWS**
 
